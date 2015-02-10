@@ -172,6 +172,12 @@ Dictionaries are a fast key-value structure.  To declare a dictionary, use the `
     my_dict['B'] = 2
     my_dict['C'] = 3
 
+    # Or alternatively:
+
+    my_dict = {
+        'A': 1, 'B': 2, 'C': 3
+    }
+
 To loop through the keys and values in dictionary, you can use the `.iteritems()` method:
 
     my_dict = {}
