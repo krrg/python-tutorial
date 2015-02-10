@@ -1,0 +1,1 @@
+my_list = ['abc', 123, 'def']

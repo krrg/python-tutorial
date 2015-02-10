@@ -1,0 +1,1 @@
+print "The answer is {}".format(42)
