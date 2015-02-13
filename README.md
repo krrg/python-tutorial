@@ -1,3 +1,5 @@
+![](tutorial_poster.png)
+
 ## An Introduction to the Python Programming Language
 
 Python is a general-purpose, high-level programming language, used in everything from web programming to scientific research.  This introduction assumes that you have some experience in another high-level programming language, such as C++ or Java.  We will examine essential Python syntax and explore some of the built-in functions in the Python standard library.  By the end of this introduction, you will know enough to be able to write simple programs in Python and to understand the official language documentation.
